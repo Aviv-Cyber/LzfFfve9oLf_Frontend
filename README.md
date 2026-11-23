@@ -1,6 +1,6 @@
-# {{APP_NAME}}
+# LzfFfve9oLf
 
-- **Application Name:** {{APP_NAME}}
-- **Frontend Repository:** `{{FRONTEND_REPO}}`
-- **Live Pages URL:** [{{LIVE_URL}}]({{LIVE_URL}})
+- **Application Name:** LzfFfve9oLf
+- **Frontend Repository:** `LzfFfve9oLf_Frontend`
+- **Live Pages URL:** [https://aviv-cyber.github.io/LzfFfve9oLf_Frontend/](https://aviv-cyber.github.io/LzfFfve9oLf_Frontend/)
 - **Architecture:** VaultDB (AES-GCM Encrypted Endpoint + Cloudflare Worker Proxy)
